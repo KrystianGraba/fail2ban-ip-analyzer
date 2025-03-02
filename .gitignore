@@ -1,0 +1,4 @@
+fail2ban_analysis_*.txt
+*.lock
+/tmp/fail2ban_temp_*.json
+/tmp/fail2ban_errors_*.log
